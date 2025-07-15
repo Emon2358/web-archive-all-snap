@@ -1,81 +1,8 @@
-# Wayback Machine Archives for http://hujikopro.xrea.jp/
+# Wayback Machine Archives for http://medesima.miyagi-ct.ac.jp/~hikaru/XROGER/
 
-Last updated: 2025-07-15 02:37:15 UTC
+Last updated: 2025-07-15 05:37:51 UTC
 
 | Date | URL | Archive Link |
 |------|-----|---------------|
-| 2009-07-09 16:32:47 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20090709163247/http://hujikopro.xrea.jp:80/) |
-| 2009-08-02 09:07:55 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20090802090755/http://hujikopro.xrea.jp:80/) |
-| 2009-09-30 19:17:50 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20090930191750/http://hujikopro.xrea.jp:80/) |
-| 2009-11-25 20:32:13 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20091125203213/http://hujikopro.xrea.jp:80/) |
-| 2009-12-26 22:48:03 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20091226224803/http://hujikopro.xrea.jp:80/) |
-| 2010-01-27 03:11:17 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20100127031117/http://hujikopro.xrea.jp:80/) |
-| 2011-01-07 04:00:52 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20110107040052/http://hujikopro.xrea.jp:80/) |
-| 2011-03-04 16:13:38 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20110304161338/http://hujikopro.xrea.jp:80/) |
-| 2011-09-03 00:42:06 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20110903004206/http://hujikopro.xrea.jp:80/) |
-| 2011-09-20 07:48:51 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20110920074851/http://hujikopro.xrea.jp/) |
-| 2011-11-02 07:41:09 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20111102074109/http://hujikopro.xrea.jp:80/) |
-| 2012-01-01 22:22:51 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20120101222251/http://hujikopro.xrea.jp:80/) |
-| 2012-07-01 21:18:38 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20120701211838/http://hujikopro.xrea.jp:80/) |
-| 2012-07-11 23:30:20 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20120711233020/http://hujikopro.xrea.jp:80/) |
-| 2012-08-19 15:08:52 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20120819150852/http://hujikopro.xrea.jp:80/) |
-| 2013-05-21 20:52:38 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20130521205238/http://hujikopro.xrea.jp/) |
-| 2013-12-07 19:39:07 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20131207193907/http://hujikopro.xrea.jp/) |
-| 2014-10-20 16:27:55 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20141020162755/http://hujikopro.xrea.jp:80/) |
-| 2014-12-22 16:35:10 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20141222163510/http://hujikopro.xrea.jp:80/) |
-| 2015-02-10 00:29:59 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20150210002959/http://hujikopro.xrea.jp:80/) |
-| 2015-02-24 12:08:14 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20150224120814/http://hujikopro.xrea.jp/) |
-| 2015-03-12 04:15:16 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20150312041516/http://hujikopro.xrea.jp:80/) |
-| 2015-03-23 06:44:11 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20150323064411/http://hujikopro.xrea.jp/) |
-| 2015-04-19 09:57:52 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20150419095752/http://hujikopro.xrea.jp:80/) |
-| 2015-05-22 14:59:58 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20150522145958/http://hujikopro.xrea.jp:80/) |
-| 2016-03-24 09:51:44 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20160324095144/http://hujikopro.xrea.jp/) |
-| 2016-06-03 05:28:00 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20160603052800/http://hujikopro.xrea.jp/) |
-| 2016-06-19 15:20:33 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20160619152033/http://hujikopro.xrea.jp:80/) |
-| 2016-07-20 16:34:21 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20160720163421/http://hujikopro.xrea.jp:80/) |
-| 2016-08-21 17:10:02 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20160821171002/http://hujikopro.xrea.jp:80/) |
-| 2016-09-21 18:00:07 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20160921180007/http://hujikopro.xrea.jp:80/) |
-| 2016-10-24 08:43:22 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20161024084322/http://hujikopro.xrea.jp:80/) |
-| 2016-11-30 01:12:31 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20161130011231/http://hujikopro.xrea.jp/) |
-| 2017-01-10 06:23:02 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20170110062302/http://hujikopro.xrea.jp:80/) |
-| 2017-09-19 06:32:21 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20170919063221/http://hujikopro.xrea.jp/) |
-| 2017-11-11 07:43:59 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20171111074359/http://hujikopro.xrea.jp:80/) |
-| 2018-01-10 21:33:05 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20180110213305/http://hujikopro.xrea.jp:80/) |
-| 2018-03-14 19:42:37 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20180314194237/http://hujikopro.xrea.jp/) |
-| 2018-07-06 03:23:58 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20180706032358/http://hujikopro.xrea.jp:80/) |
-| 2018-08-06 02:14:21 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20180806021421/http://hujikopro.xrea.jp:80/) |
-| 2018-08-26 10:10:18 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20180826101018/http://hujikopro.xrea.jp/) |
-| 2018-08-29 19:19:30 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20180829191930/http://hujikopro.xrea.jp/) |
-| 2018-09-06 23:32:37 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20180906233237/http://hujikopro.xrea.jp:80/) |
-| 2018-10-07 17:19:08 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20181007171908/http://hujikopro.xrea.jp:80/) |
-| 2018-11-07 16:41:53 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20181107164153/http://hujikopro.xrea.jp:80/) |
-| 2018-12-08 03:47:14 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20181208034714/http://hujikopro.xrea.jp:80/) |
-| 2019-01-08 05:13:19 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20190108051319/http://hujikopro.xrea.jp:80/) |
-| 2019-02-09 00:53:05 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20190209005305/http://hujikopro.xrea.jp:80/) |
-| 2019-03-12 19:09:14 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20190312190914/http://hujikopro.xrea.jp:80/) |
-| 2019-04-12 22:05:54 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20190412220554/http://hujikopro.xrea.jp:80/) |
-| 2019-05-13 18:42:44 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20190513184244/http://hujikopro.xrea.jp:80/) |
-| 2019-06-13 23:04:21 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20190613230421/http://hujikopro.xrea.jp:80/) |
-| 2019-07-27 17:27:08 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20190727172708/http://hujikopro.xrea.jp:80/) |
-| 2019-08-29 17:39:10 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20190829173910/http://hujikopro.xrea.jp:80/) |
-| 2019-09-14 01:55:39 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20190914015539/http://hujikopro.xrea.jp/) |
-| 2019-09-30 06:05:53 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20190930060553/http://hujikopro.xrea.jp:80/) |
-| 2019-10-03 13:25:41 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20191003132541/http://hujikopro.xrea.jp/) |
-| 2019-10-27 22:22:39 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20191027222239/http://hujikopro.xrea.jp:80/) |
-| 2019-11-27 07:10:09 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20191127071009/http://hujikopro.xrea.jp:80/) |
-| 2019-12-27 12:16:11 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20191227121611/http://hujikopro.xrea.jp:80/) |
-| 2020-01-26 18:01:24 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20200126180124/http://hujikopro.xrea.jp:80/) |
-| 2020-02-25 22:25:31 | http://hujikopro.xrea.jp:80/ | [View Archive](https://web.archive.org/web/20200225222531/http://hujikopro.xrea.jp:80/) |
-| 2020-11-01 08:40:33 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20201101084033/http://hujikopro.xrea.jp/) |
-| 2022-12-07 21:32:05 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20221207213205/http://hujikopro.xrea.jp/) |
-| 2023-05-06 07:33:05 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20230506073305/http://hujikopro.xrea.jp/) |
-| 2023-06-11 03:42:26 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20230611034226/http://hujikopro.xrea.jp/) |
-| 2024-02-01 17:07:23 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20240201170723/http://hujikopro.xrea.jp/) |
-| 2024-02-16 03:31:51 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20240216033151/http://hujikopro.xrea.jp/) |
-| 2024-03-13 20:02:24 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20240313200224/http://hujikopro.xrea.jp/) |
-| 2024-07-13 08:51:14 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20240713085114/http://hujikopro.xrea.jp/) |
-| 2024-08-23 01:41:49 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20240823014149/http://hujikopro.xrea.jp/) |
-| 2025-02-14 05:43:25 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20250214054325/http://hujikopro.xrea.jp/) |
-| 2025-04-17 18:48:36 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20250417184836/http://hujikopro.xrea.jp/) |
-| 2025-05-22 17:09:09 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20250522170909/http://hujikopro.xrea.jp/) |
-| 2025-06-18 20:08:18 | http://hujikopro.xrea.jp/ | [View Archive](https://web.archive.org/web/20250618200818/http://hujikopro.xrea.jp/) |
+| 1999-10-08 00:35:23 | http://medesima.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/ | [View Archive](https://web.archive.org/web/19991008003523/http://medesima.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/) |
+| 1999-11-03 20:37:16 | http://medesima.miyagi-ct.ac.jp:80/~hikaru/XROGER | [View Archive](https://web.archive.org/web/19991103203716/http://medesima.miyagi-ct.ac.jp:80/~hikaru/XROGER) |
