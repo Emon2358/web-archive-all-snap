@@ -1,4 +1,4 @@
-name: Get Wayback Machine Snapshots and Update README
+name: Get Wayback Machine Snapshots (Python) and Update README
 
 on:
   workflow_dispatch:
@@ -16,8 +16,18 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Fetch Wayback Machine snapshots and prepare content
-      id: fetch_snapshots_and_prepare # このIDは outputs を参照するために必要
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x' # 使用するPythonのバージョンを指定 (例: '3.9', '3.10', '3.x')
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run Python script to fetch snapshots and update README
+      id: run_python_script # このIDは outputs を参照するために必要
       run: |
         TARGET_URL="${{ github.event.inputs.target_url }}"
 
@@ -26,60 +36,26 @@ jobs:
           exit 1
         fi
 
-        echo "ターゲットURL: $TARGET_URL のスナップショットを取得中..."
+        python get_wayback_snapshots.py "$TARGET_URL"
 
-        # CDX APIを呼び出してスナップショット情報を取得
-        curl -s "http://web.archive.org/cdx/search/cdx?url=$TARGET_URL&output=text" > wayback_data.txt
-
-        if [ ! -s wayback_data.txt ]; then
-          echo "Error: Wayback Machineからスナップショットデータが受信されなかったか、ファイルが空です。"
-          exit 1
-        fi
-
-        # READMEに書き込む内容を準備
-        MARKDOWN_HEADING="## Wayback Machine Snapshots for ${TARGET_URL}"
-        
-        SNAPSHOT_LIST_CONTENT=""
-        while IFS=' ' read -r urlkey timestamp original mimetype statuscode digest length; do
-          if [[ -n "$timestamp" && -n "$original" ]]; then
-            CLEAN_ORIGINAL_URL=$(echo "$original" | sed -E 's/https?:\/\///')
-            SNAPSHOT_URL="https://web.archive.org/web/${timestamp}/${CLEAN_ORIGINAL_URL}"
-            SNAPSHOT_LIST_CONTENT+="- [${timestamp}](${SNAPSHOT_URL})\n"
-          fi
-        done < wayback_data.txt
-
-        if [ -z "$SNAPSHOT_LIST_CONTENT" ]; then
-          echo "Warning: スナップショットリンクが生成されませんでした。"
-          SNAPSHOT_LIST_CONTENT="No snapshots found for this URL.\n"
-        fi
-
-        # README.mdの内容を作成または追記
-        README_CONTENT="\n---\n${MARKDOWN_HEADING}\n\n${SNAPSHOT_LIST_CONTENT}"
-
-        # README.mdファイルが存在しない場合は作成、存在する場合は追記
-        echo -e "$README_CONTENT" >> README.md
-        
         # README.mdが実際に変更されたか確認（変更がなければコミットしない）
         if git diff --quiet README.md; then
           echo "README.md に変更はありません。コミットをスキップします。"
-          # 非推奨の set-output の代わりに GITHUB_OUTPUT を使用
           echo "changes_made=false" >> $GITHUB_OUTPUT
         else
           echo "README.md が更新されました。"
-          # 非推奨の set-output の代わりに GITHUB_OUTPUT を使用
           echo "changes_made=true" >> $GITHUB_OUTPUT
+
         fi
 
     - name: Configure Git
-      # README.mdに変更があった場合のみGit設定を実行
-      if: steps.fetch_snapshots_and_prepare.outputs.changes_made == 'true'
+      if: steps.run_python_script.outputs.changes_made == 'true'
       run: |
         git config user.name "GitHub Actions"
         git config user.email "github-actions@github.com"
 
     - name: Commit and push README.md
-      # README.mdに変更があった場合のみコミットとプッシュを実行
-      if: steps.fetch_snapshots_and_prepare.outputs.changes_made == 'true'
+      if: steps.run_python_script.outputs.changes_made == 'true'
       run: |
         git add README.md
         git commit -m "Update README.md with Wayback Machine snapshots for ${{ github.event.inputs.target_url }}"
