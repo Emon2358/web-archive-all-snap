@@ -1,8 +1,10 @@
-# Wayback Machine Archives for http://medesima.miyagi-ct.ac.jp/~hikaru/XROGER/
+# Wayback Machine Archives for https://lbt-web.com/paricco/paricolle.html
 
-Last updated: 2025-07-15 05:37:51 UTC
+Last updated: 2025-07-15 08:55:58 UTC
 
 | Date | URL | Archive Link |
 |------|-----|---------------|
-| 1999-10-08 00:35:23 | http://medesima.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/ | [View Archive](https://web.archive.org/web/19991008003523/http://medesima.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/) |
-| 1999-11-03 20:37:16 | http://medesima.miyagi-ct.ac.jp:80/~hikaru/XROGER | [View Archive](https://web.archive.org/web/19991103203716/http://medesima.miyagi-ct.ac.jp:80/~hikaru/XROGER) |
+| 2012-07-16 00:05:27 | http://www.lbt-web.com:80/paricco/paricolle.html | [View Archive](https://web.archive.org/web/20120716000527/http://www.lbt-web.com:80/paricco/paricolle.html) |
+| 2019-05-22 04:01:29 | http://www.lbt-web.com/paricco/paricolle.html | [View Archive](https://web.archive.org/web/20190522040129/http://www.lbt-web.com/paricco/paricolle.html) |
+| 2021-10-22 20:30:03 | http://www.lbt-web.com/paricco/paricolle.html | [View Archive](https://web.archive.org/web/20211022203003/http://www.lbt-web.com/paricco/paricolle.html) |
+| 2023-05-30 13:43:33 | https://lbt-web.com/paricco/paricolle.html | [View Archive](https://web.archive.org/web/20230530134333/https://lbt-web.com/paricco/paricolle.html) |
