@@ -17,7 +17,7 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Fetch Wayback Machine snapshots and prepare content
-      id: fetch_snapshots_and_prepare
+      id: fetch_snapshots_and_prepare # このIDは outputs を参照するために必要
       run: |
         TARGET_URL="${{ github.event.inputs.target_url }}"
 
@@ -33,14 +33,10 @@ jobs:
 
         if [ ! -s wayback_data.txt ]; then
           echo "Error: Wayback Machineからスナップショットデータが受信されなかったか、ファイルが空です。"
-          # READMEにエラーメッセージを書き込むか、処理をスキップするかは要件によります
-          # ここではエラーとして終了
           exit 1
         fi
 
         # READMEに書き込む内容を準備
-        # ファイル名を動的に生成し、ファイル名に含まれない記号はハイフンに変換
-        CLEAN_URL_FOR_FILENAME=$(echo "$TARGET_URL" | sed -E 's|https?://||; s|[^a-zA-Z0-9._-]+|-|g; s|-$||')
         MARKDOWN_HEADING="## Wayback Machine Snapshots for ${TARGET_URL}"
         
         SNAPSHOT_LIST_CONTENT=""
@@ -54,7 +50,6 @@ jobs:
 
         if [ -z "$SNAPSHOT_LIST_CONTENT" ]; then
           echo "Warning: スナップショットリンクが生成されませんでした。"
-          # スナップショットが見つからなかった場合、READMEには見つからなかった旨を追記
           SNAPSHOT_LIST_CONTENT="No snapshots found for this URL.\n"
         fi
 
@@ -65,25 +60,26 @@ jobs:
         echo -e "$README_CONTENT" >> README.md
         
         # README.mdが実際に変更されたか確認（変更がなければコミットしない）
-        # git diff --exit-code は変更がなければ終了コード0、変更があれば終了コード1を返す
-        if git diff --quiet README.md; then # --quiet を追加して出力なしで差分チェック
+        if git diff --quiet README.md; then
           echo "README.md に変更はありません。コミットをスキップします。"
-          echo "::set-output name=changes_made::false"
+          # 非推奨の set-output の代わりに GITHUB_OUTPUT を使用
+          echo "changes_made=false" >> $GITHUB_OUTPUT
         else
           echo "README.md が更新されました。"
-          echo "::set-output name=changes_made::true"
+          # 非推奨の set-output の代わりに GITHUB_OUTPUT を使用
+          echo "changes_made=true" >> $GITHUB_OUTPUT
         fi
 
     - name: Configure Git
       # README.mdに変更があった場合のみGit設定を実行
-      if: steps.fetch_snapshots_and_prepare.outputs.changes_made == 'true' # ここを修正
+      if: steps.fetch_snapshots_and_prepare.outputs.changes_made == 'true'
       run: |
         git config user.name "GitHub Actions"
         git config user.email "github-actions@github.com"
 
     - name: Commit and push README.md
       # README.mdに変更があった場合のみコミットとプッシュを実行
-      if: steps.fetch_snapshots_and_prepare.outputs.changes_made == 'true' # ここを修正
+      if: steps.fetch_snapshots_and_prepare.outputs.changes_made == 'true'
       run: |
         git add README.md
         git commit -m "Update README.md with Wayback Machine snapshots for ${{ github.event.inputs.target_url }}"
