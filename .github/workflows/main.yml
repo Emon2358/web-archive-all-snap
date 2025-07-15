@@ -1,64 +1,73 @@
-name: Get Wayback Machine Snapshots (Python) and Update README
+name: Wayback Machine Archive List
 
 on:
   workflow_dispatch:
     inputs:
-      target_url:
-        description: 'スナップショットを取得するターゲットURL'
+      domain:
+        description: 'Target domain to archive'
         required: true
-        default: 'https://vol4records.com/music/%5BVL4-043%5Dhujikopro_-_chipbreak_is_dead.zip'
+        type: string
 
 jobs:
-  update_readme_with_snapshots:
+  update-readme:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.x' # 使用するPythonのバージョンを指定 (例: '3.9', '3.10', '3.x')
-
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests
-
-    - name: Run Python script to fetch snapshots and update README
-      id: run_python_script # このIDは outputs を参照するために必要
-      run: |
-        TARGET_URL="${{ github.event.inputs.target_url }}"
-
-        if [ -z "$TARGET_URL" ]; then
-          echo "Error: ターゲットURLが指定されていません。"
-          exit 1
-        fi
-
-        python get_wayback_snapshots.py "$TARGET_URL"
-
-        # README.mdが実際に変更されたか確認（変更がなければコミットしない）
-        if git diff --quiet README.md; then
-          echo "README.md に変更はありません。コミットをスキップします。"
-          echo "changes_made=false" >> $GITHUB_OUTPUT
-        else
-          echo "README.md が更新されました。"
-          echo "changes_made=true" >> $GITHUB_OUTPUT
-
-        fi
-
-    - name: Configure Git
-      if: steps.run_python_script.outputs.changes_made == 'true'
-      run: |
-        git config user.name "GitHub Actions"
-        git config user.email "github-actions@github.com"
-
-    - name: Commit and push README.md
-      if: steps.run_python_script.outputs.changes_made == 'true'
-      run: |
-        git add README.md
-        git commit -m "Update README.md with Wayback Machine snapshots for ${{ github.event.inputs.target_url }}"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          
+      - name: Get Wayback Machine archives
+        run: |
+          python -c '
+          import requests
+          import json
+          import sys
+          from datetime import datetime
+          
+          domain = "${{ github.event.inputs.domain }}"
+          url = f"http://web.archive.org/cdx/search/cdx?url={domain}&output=json"
+          
+          try:
+              response = requests.get(url)
+              response.raise_for_status()
+              data = response.json()
+              
+              # Skip the header row
+              archives = data[1:]
+              
+              # Create markdown content
+              content = f"# Wayback Machine Archives for {domain}\n\n"
+              content += "Last updated: " + datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC") + "\n\n"
+              content += "| Date | URL | Archive Link |\n"
+              content += "|------|-----|---------------|\n"
+              
+              for archive in archives:
+                  timestamp = archive[1]
+                  original_url = archive[2]
+                  date = datetime.strptime(timestamp, "%Y%m%d%H%M%S").strftime("%Y-%m-%d %H:%M:%S")
+                  archive_url = f"https://web.archive.org/web/{timestamp}/{original_url}"
+                  content += f"| {date} | {original_url} | [View Archive]({archive_url}) |\n"
+              
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(content)
+              
+          except Exception as e:
+              print(f"Error: {str(e)}")
+              sys.exit(1)
+          '
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update Wayback Machine archives for ${{ github.event.inputs.domain }}"
+          git push
