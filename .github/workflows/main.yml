@@ -1,0 +1,92 @@
+name: Get Wayback Machine Snapshots and Update README
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_url:
+        description: 'スナップショットを取得するターゲットURL'
+        required: true
+        default: 'https://vol4records.com/music/%5BVL4-043%5Dhujikopro_-_chipbreak_is_dead.zip'
+
+jobs:
+  update_readme_with_snapshots:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Fetch Wayback Machine snapshots and prepare content
+      id: fetch_snapshots_and_prepare
+      run: |
+        TARGET_URL="${{ github.event.inputs.target_url }}"
+
+        if [ -z "$TARGET_URL" ]; then
+          echo "Error: ターゲットURLが指定されていません。"
+          exit 1
+        fi
+
+        echo "ターゲットURL: $TARGET_URL のスナップショットを取得中..."
+
+        # CDX APIを呼び出してスナップショット情報を取得
+        curl -s "http://web.archive.org/cdx/search/cdx?url=$TARGET_URL&output=text" > wayback_data.txt
+
+        if [ ! -s wayback_data.txt ]; then
+          echo "Error: Wayback Machineからスナップショットデータが受信されなかったか、ファイルが空です。"
+          # READMEにエラーメッセージを書き込むか、処理をスキップするかは要件によります
+          # ここではエラーとして終了
+          exit 1
+        fi
+
+        # READMEに書き込む内容を準備
+        # ファイル名を動的に生成し、ファイル名に含まれない記号はハイフンに変換
+        CLEAN_URL_FOR_FILENAME=$(echo "$TARGET_URL" | sed -E 's|https?://||; s|[^a-zA-Z0-9._-]+|-|g; s|-$||')
+        MARKDOWN_HEADING="## Wayback Machine Snapshots for ${TARGET_URL}"
+        
+        SNAPSHOT_LIST_CONTENT=""
+        while IFS=' ' read -r urlkey timestamp original mimetype statuscode digest length; do
+          if [[ -n "$timestamp" && -n "$original" ]]; then
+            CLEAN_ORIGINAL_URL=$(echo "$original" | sed -E 's/https?:\/\///')
+            SNAPSHOT_URL="https://web.archive.org/web/${timestamp}/${CLEAN_ORIGINAL_URL}"
+            SNAPSHOT_LIST_CONTENT+="- [${timestamp}](${SNAPSHOT_URL})\n"
+          fi
+        done < wayback_data.txt
+
+        if [ -z "$SNAPSHOT_LIST_CONTENT" ]; then
+          echo "Warning: スナップショットリンクが生成されませんでした。"
+          # スナップショットが見つからなかった場合、READMEには見つからなかった旨を追記
+          SNAPSHOT_LIST_CONTENT="No snapshots found for this URL.\n"
+        fi
+
+        # README.mdの内容を作成または追記
+        README_CONTENT="\n---\n${MARKDOWN_HEADING}\n\n${SNAPSHOT_LIST_CONTENT}"
+
+        # README.mdファイルが存在しない場合は作成、存在する場合は追記
+        echo -e "$README_CONTENT" >> README.md
+        
+        # README.mdが実際に変更されたか確認（変更がなければコミットしない）
+        # git diff --exit-code は変更がなければ終了コード0、変更があれば終了コード1を返す
+        if git diff --quiet README.md; then # --quiet を追加して出力なしで差分チェック
+          echo "README.md に変更はありません。コミットをスキップします。"
+          echo "::set-output name=changes_made::false"
+        else
+          echo "README.md が更新されました。"
+          echo "::set-output name=changes_made::true"
+        fi
+
+    - name: Configure Git
+      # README.mdに変更があった場合のみGit設定を実行
+      if: steps.fetch_snapshots_and_prepare.outputs.changes_made == 'true' # ここを修正
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "github-actions@github.com"
+
+    - name: Commit and push README.md
+      # README.mdに変更があった場合のみコミットとプッシュを実行
+      if: steps.fetch_snapshots_and_prepare.outputs.changes_made == 'true' # ここを修正
+      run: |
+        git add README.md
+        git commit -m "Update README.md with Wayback Machine snapshots for ${{ github.event.inputs.target_url }}"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
