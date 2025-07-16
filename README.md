@@ -1,18 +1,15 @@
-# Wayback Machine Archives for http://www.lbt-web.com/sentoufever/
+# Wayback Machine Archives for http://blog.ap.teacup.com/paricco/
 
-Last updated: 2025-07-16 08:17:58 UTC
+Last updated: 2025-07-16 08:42:31 UTC
 
 | Date | URL | Archive Link |
 |------|-----|---------------|
-| 2009-06-21 07:51:34 | http://www.lbt-web.com:80/sentoufever | [View Archive](https://web.archive.org/web/20090621075134/http://www.lbt-web.com:80/sentoufever) |
-| 2009-06-21 07:51:34 | http://www.lbt-web.com:80/sentoufever/ | [View Archive](https://web.archive.org/web/20090621075134/http://www.lbt-web.com:80/sentoufever/) |
-| 2009-06-22 17:48:42 | http://www.lbt-web.com:80/sentoufever/ | [View Archive](https://web.archive.org/web/20090622174842/http://www.lbt-web.com:80/sentoufever/) |
-| 2009-07-22 10:40:26 | http://www.lbt-web.com:80/sentoufever | [View Archive](https://web.archive.org/web/20090722104026/http://www.lbt-web.com:80/sentoufever) |
-| 2009-07-22 10:40:26 | http://www.lbt-web.com:80/sentoufever/ | [View Archive](https://web.archive.org/web/20090722104026/http://www.lbt-web.com:80/sentoufever/) |
-| 2009-09-14 20:45:03 | http://www.lbt-web.com:80/sentoufever/ | [View Archive](https://web.archive.org/web/20090914204503/http://www.lbt-web.com:80/sentoufever/) |
-| 2010-04-28 02:05:51 | http://www.lbt-web.com:80/sentoufever/ | [View Archive](https://web.archive.org/web/20100428020551/http://www.lbt-web.com:80/sentoufever/) |
-| 2010-10-17 14:29:01 | http://www.lbt-web.com:80/sentoufever/ | [View Archive](https://web.archive.org/web/20101017142901/http://www.lbt-web.com:80/sentoufever/) |
-| 2011-09-27 21:06:06 | http://www.lbt-web.com/sentoufever/ | [View Archive](https://web.archive.org/web/20110927210606/http://www.lbt-web.com/sentoufever/) |
-| 2013-06-30 07:57:14 | http://www.lbt-web.com:80/sentoufever/ | [View Archive](https://web.archive.org/web/20130630075714/http://www.lbt-web.com:80/sentoufever/) |
-| 2018-03-11 12:57:02 | http://www.lbt-web.com:80/sentoufever/ | [View Archive](https://web.archive.org/web/20180311125702/http://www.lbt-web.com:80/sentoufever/) |
-| 2020-10-26 04:07:06 | http://www.lbt-web.com/sentoufever/ | [View Archive](https://web.archive.org/web/20201026040706/http://www.lbt-web.com/sentoufever/) |
+| 2020-09-27 20:18:32 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20200927201832/https://blog.ap.teacup.com/paricco/) |
+| 2020-11-30 11:24:07 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20201130112407/https://blog.ap.teacup.com/paricco/) |
+| 2021-03-01 04:33:07 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20210301043307/https://blog.ap.teacup.com/paricco/) |
+| 2021-05-15 07:36:42 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20210515073642/https://blog.ap.teacup.com/paricco/) |
+| 2021-07-25 18:14:58 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20210725181458/https://blog.ap.teacup.com/paricco/) |
+| 2021-10-24 21:12:44 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20211024211244/https://blog.ap.teacup.com/paricco/) |
+| 2022-01-24 17:37:45 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20220124173745/https://blog.ap.teacup.com/paricco/) |
+| 2022-05-25 12:37:21 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20220525123721/https://blog.ap.teacup.com/paricco/) |
+| 2024-02-28 13:36:54 | http://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20240228133654/http://blog.ap.teacup.com/paricco/) |
