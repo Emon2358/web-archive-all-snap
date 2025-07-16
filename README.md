@@ -1,10 +1,11 @@
-# Wayback Machine Archives for https://lbt-web.com/paricco/paricolle.html
+# Wayback Machine Archives for http://lbtweb.cart.fc2.com/
 
-Last updated: 2025-07-16 02:52:04 UTC
+Last updated: 2025-07-16 08:07:24 UTC
 
 | Date | URL | Archive Link |
 |------|-----|---------------|
-| 2012-07-16 00:05:27 | http://www.lbt-web.com:80/paricco/paricolle.html | [View Archive](https://web.archive.org/web/20120716000527/http://www.lbt-web.com:80/paricco/paricolle.html) |
-| 2019-05-22 04:01:29 | http://www.lbt-web.com/paricco/paricolle.html | [View Archive](https://web.archive.org/web/20190522040129/http://www.lbt-web.com/paricco/paricolle.html) |
-| 2021-10-22 20:30:03 | http://www.lbt-web.com/paricco/paricolle.html | [View Archive](https://web.archive.org/web/20211022203003/http://www.lbt-web.com/paricco/paricolle.html) |
-| 2023-05-30 13:43:33 | https://lbt-web.com/paricco/paricolle.html | [View Archive](https://web.archive.org/web/20230530134333/https://lbt-web.com/paricco/paricolle.html) |
+| 2010-11-07 16:25:16 | http://lbtweb.cart.fc2.com:80/? | [View Archive](https://web.archive.org/web/20101107162516/http://lbtweb.cart.fc2.com:80/?) |
+| 2010-11-08 03:39:18 | http://lbtweb.cart.fc2.com:80/ | [View Archive](https://web.archive.org/web/20101108033918/http://lbtweb.cart.fc2.com:80/) |
+| 2019-05-27 20:52:39 | http://lbtweb.cart.fc2.com/ | [View Archive](https://web.archive.org/web/20190527205239/http://lbtweb.cart.fc2.com/) |
+| 2023-05-28 04:14:24 | https://lbtweb.cart.fc2.com/ | [View Archive](https://web.archive.org/web/20230528041424/https://lbtweb.cart.fc2.com/) |
+| 2024-06-19 08:40:15 | https://lbtweb.cart.fc2.com/ | [View Archive](https://web.archive.org/web/20240619084015/https://lbtweb.cart.fc2.com/) |
