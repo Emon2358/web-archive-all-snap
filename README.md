@@ -1,6 +1,6 @@
-# Wayback Machine Archives for http://www.lbt-web.com/palicolle.html
+# Wayback Machine Archives for http://www.lbt-web.com/palicolle2011.html
 
-Last updated: 2025-07-16 02:42:00 UTC
+Last updated: 2025-07-16 02:44:11 UTC
 
 | Date | URL | Archive Link |
 |------|-----|---------------|
