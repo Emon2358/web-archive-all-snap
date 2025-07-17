@@ -1,15 +1,84 @@
-# Wayback Machine Archives for http://blog.ap.teacup.com/paricco/
+# Wayback Machine Archives for http://www.merryworks.net/
 
-Last updated: 2025-07-16 08:42:31 UTC
+Last updated: 2025-07-17 03:50:06 UTC
 
 | Date | URL | Archive Link |
 |------|-----|---------------|
-| 2020-09-27 20:18:32 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20200927201832/https://blog.ap.teacup.com/paricco/) |
-| 2020-11-30 11:24:07 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20201130112407/https://blog.ap.teacup.com/paricco/) |
-| 2021-03-01 04:33:07 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20210301043307/https://blog.ap.teacup.com/paricco/) |
-| 2021-05-15 07:36:42 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20210515073642/https://blog.ap.teacup.com/paricco/) |
-| 2021-07-25 18:14:58 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20210725181458/https://blog.ap.teacup.com/paricco/) |
-| 2021-10-24 21:12:44 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20211024211244/https://blog.ap.teacup.com/paricco/) |
-| 2022-01-24 17:37:45 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20220124173745/https://blog.ap.teacup.com/paricco/) |
-| 2022-05-25 12:37:21 | https://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20220525123721/https://blog.ap.teacup.com/paricco/) |
-| 2024-02-28 13:36:54 | http://blog.ap.teacup.com/paricco/ | [View Archive](https://web.archive.org/web/20240228133654/http://blog.ap.teacup.com/paricco/) |
+| 2011-07-15 11:38:55 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20110715113855/http://www.merryworks.net/) |
+| 2012-07-05 04:35:22 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20120705043522/http://www.merryworks.net:80/) |
+| 2012-08-04 22:55:15 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20120804225515/http://www.merryworks.net:80/) |
+| 2012-09-04 16:28:35 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20120904162835/http://www.merryworks.net:80/) |
+| 2012-10-06 08:03:49 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20121006080349/http://www.merryworks.net:80/) |
+| 2012-11-12 10:25:23 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20121112102523/http://www.merryworks.net:80/) |
+| 2012-12-11 11:16:40 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20121211111640/http://www.merryworks.net:80/) |
+| 2013-01-12 01:08:47 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20130112010847/http://www.merryworks.net:80/) |
+| 2013-02-12 12:16:56 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20130212121656/http://www.merryworks.net:80/) |
+| 2013-03-15 18:53:39 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20130315185339/http://www.merryworks.net:80/) |
+| 2013-04-16 23:45:17 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20130416234517/http://www.merryworks.net:80/) |
+| 2013-05-18 02:29:33 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20130518022933/http://www.merryworks.net:80/) |
+| 2013-06-13 15:35:06 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20130613153506/http://merryworks.net/) |
+| 2013-06-29 15:20:11 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20130629152011/http://www.merryworks.net:80/) |
+| 2013-07-27 19:27:50 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20130727192750/http://www.merryworks.net/) |
+| 2013-07-31 04:25:21 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20130731042521/http://www.merryworks.net:80/) |
+| 2013-08-01 09:43:35 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20130801094335/http://www.merryworks.net:80/) |
+| 2013-09-01 22:10:49 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20130901221049/http://www.merryworks.net:80/) |
+| 2013-10-03 06:01:09 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20131003060109/http://www.merryworks.net:80/) |
+| 2013-11-04 02:29:48 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20131104022948/http://www.merryworks.net:80/) |
+| 2014-01-02 05:27:01 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20140102052701/http://merryworks.net/) |
+| 2014-05-17 18:49:36 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20140517184936/http://merryworks.net/) |
+| 2014-05-29 15:15:55 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20140529151555/http://www.merryworks.net/) |
+| 2014-12-17 13:38:07 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20141217133807/http://merryworks.net/) |
+| 2015-03-13 05:57:53 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20150313055753/http://www.merryworks.net:80/) |
+| 2015-08-01 19:42:05 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20150801194205/http://merryworks.net/) |
+| 2015-10-06 23:36:51 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20151006233651/http://www.merryworks.net:80/) |
+| 2015-10-12 02:52:01 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20151012025201/http://merryworks.net/) |
+| 2015-12-18 06:25:45 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20151218062545/http://www.merryworks.net:80/) |
+| 2016-01-10 19:11:49 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20160110191149/http://merryworks.net/) |
+| 2016-03-05 05:02:46 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20160305050246/http://merryworks.net/) |
+| 2016-05-16 22:08:54 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20160516220854/http://www.merryworks.net:80/) |
+| 2016-05-22 17:03:08 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20160522170308/http://www.merryworks.net:80/) |
+| 2016-06-22 19:51:00 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20160622195100/http://www.merryworks.net:80/) |
+| 2016-07-23 13:41:27 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20160723134127/http://www.merryworks.net:80/) |
+| 2016-08-24 09:00:52 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20160824090052/http://www.merryworks.net:80/) |
+| 2016-09-25 07:15:30 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20160925071530/http://www.merryworks.net:80/) |
+| 2016-10-05 00:02:25 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20161005000225/http://merryworks.net/) |
+| 2016-10-27 01:45:29 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20161027014529/http://www.merryworks.net:80/) |
+| 2017-06-03 16:17:46 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20170603161746/http://merryworks.net/) |
+| 2017-08-22 02:26:02 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20170822022602/http://www.merryworks.net:80/) |
+| 2017-09-14 03:06:36 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20170914030636/http://www.merryworks.net/) |
+| 2017-09-20 03:11:44 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20170920031144/http://merryworks.net/) |
+| 2018-03-23 05:17:29 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20180323051729/http://merryworks.net/) |
+| 2019-01-02 21:58:38 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20190102215838/http://merryworks.net/) |
+| 2019-03-16 02:31:12 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20190316023112/http://www.merryworks.net:80/) |
+| 2019-05-16 04:02:59 | http://www.merryworks.net:80/ | [View Archive](https://web.archive.org/web/20190516040259/http://www.merryworks.net:80/) |
+| 2019-12-28 03:59:52 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20191228035952/http://merryworks.net/) |
+| 2020-09-23 05:10:09 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20200923051009/http://merryworks.net/) |
+| 2020-10-25 21:32:34 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20201025213234/http://merryworks.net/) |
+| 2020-10-30 01:21:46 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20201030012146/http://www.merryworks.net/) |
+| 2020-11-01 04:25:12 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20201101042512/http://merryworks.net/) |
+| 2020-11-25 10:38:59 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20201125103859/http://www.merryworks.net/) |
+| 2020-11-28 01:13:27 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20201128011327/http://merryworks.net/) |
+| 2021-01-20 15:17:49 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20210120151749/http://merryworks.net/) |
+| 2021-02-24 17:24:46 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20210224172446/http://www.merryworks.net/) |
+| 2021-03-03 13:49:39 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20210303134939/http://merryworks.net/) |
+| 2021-03-17 15:39:47 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20210317153947/http://www.merryworks.net/) |
+| 2021-04-13 13:06:58 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20210413130658/http://www.merryworks.net/) |
+| 2021-04-16 19:20:40 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20210416192040/http://merryworks.net/) |
+| 2021-05-07 19:05:42 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20210507190542/http://www.merryworks.net/) |
+| 2021-05-17 15:07:52 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20210517150752/http://merryworks.net/) |
+| 2021-06-15 05:43:06 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20210615054306/http://merryworks.net/) |
+| 2021-06-15 05:43:06 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20210615054306/http://merryworks.net/) |
+| 2021-06-15 22:05:10 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20210615220510/http://www.merryworks.net/) |
+| 2021-06-15 22:05:10 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20210615220510/http://www.merryworks.net/) |
+| 2021-07-26 15:33:01 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20210726153301/http://merryworks.net/) |
+| 2021-08-01 16:51:57 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20210801165157/http://www.merryworks.net/) |
+| 2021-09-17 15:17:16 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20210917151716/http://merryworks.net/) |
+| 2021-09-23 02:31:05 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20210923023105/http://www.merryworks.net/) |
+| 2021-10-17 03:07:30 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20211017030730/http://www.merryworks.net/) |
+| 2021-10-21 16:54:05 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20211021165405/http://merryworks.net/) |
+| 2021-12-05 13:14:02 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20211205131402/http://merryworks.net/) |
+| 2021-12-09 16:40:09 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20211209164009/http://merryworks.net/) |
+| 2022-01-28 21:33:48 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20220128213348/http://merryworks.net/) |
+| 2022-05-28 00:14:13 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20220528001413/http://merryworks.net/) |
+| 2022-12-08 23:13:45 | http://merryworks.net/ | [View Archive](https://web.archive.org/web/20221208231345/http://merryworks.net/) |
+| 2025-04-01 17:54:28 | http://www.merryworks.net/ | [View Archive](https://web.archive.org/web/20250401175428/http://www.merryworks.net/) |
