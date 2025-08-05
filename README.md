@@ -1,8 +1,7 @@
-# Wayback Machine Archives for https://no-nord-ost.hatenablog.com/about
+# Wayback Machine Archives for http://www.geocities.co.jp/Playtown-Spade/2096/skm1.zip
 
-Last updated: 2025-08-04 05:31:01 UTC
+Last updated: 2025-08-05 16:33:04 UTC
 
 | Date | URL | Archive Link |
 |------|-----|---------------|
-| 2020-10-31 13:53:50 | https://no-nord-ost.hatenablog.com/about | [View Archive](https://web.archive.org/web/20201031135350/https://no-nord-ost.hatenablog.com/about) |
-| 2021-08-17 11:40:47 | https://no-nord-ost.hatenablog.com/about | [View Archive](https://web.archive.org/web/20210817114047/https://no-nord-ost.hatenablog.com/about) |
+| 2005-11-01 23:08:11 | http://www.geocities.co.jp:80/Playtown-Spade/2096/skm1.zip | [View Archive](https://web.archive.org/web/20051101230811/http://www.geocities.co.jp:80/Playtown-Spade/2096/skm1.zip) |
