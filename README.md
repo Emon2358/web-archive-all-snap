@@ -1,30 +1,22 @@
-# Wayback Machine Archives for http://www.miyagi-ct.ac.jp/~hikaru/XROGER/
+# Wayback Machine Archives for http://www.miyagi-ct.ac.jp/~hikaru/XROGER/indexx.html
 
-Last updated: 2025-09-05 06:08:20 UTC
+Last updated: 2025-09-05 06:17:09 UTC
 
 | Date | URL | Archive Link |
 |------|-----|---------------|
-| 1999-04-28 17:17:21 | http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER | [View Archive](https://web.archive.org/web/19990428171721/http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER) |
-| 1999-05-05 23:22:15 | http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER | [View Archive](https://web.archive.org/web/19990505232215/http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER) |
-| 2000-04-14 22:00:43 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER | [View Archive](https://web.archive.org/web/20000414220043/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER) |
-| 2000-04-17 15:19:27 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER | [View Archive](https://web.archive.org/web/20000417151927/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER) |
-| 2000-04-22 13:48:33 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER | [View Archive](https://web.archive.org/web/20000422134833/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER) |
-| 2000-05-20 01:38:21 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER | [View Archive](https://web.archive.org/web/20000520013821/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER) |
-| 2000-10-19 20:23:47 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER | [View Archive](https://web.archive.org/web/20001019202347/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER) |
-| 2001-04-11 22:11:15 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER | [View Archive](https://web.archive.org/web/20010411221115/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER) |
-| 2001-04-24 12:01:37 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20010424120137/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2001-08-06 12:06:25 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20010806120625/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2002-06-05 02:31:24 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20020605023124/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2002-12-03 21:42:57 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20021203214257/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2003-02-21 04:49:54 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20030221044954/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2003-04-06 00:17:38 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20030406001738/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2003-06-19 17:14:09 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20030619171409/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2003-10-07 04:07:58 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20031007040758/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2004-02-10 02:02:48 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20040210020248/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2004-04-21 18:31:16 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20040421183116/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2004-08-04 19:06:29 | http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/ | [View Archive](https://web.archive.org/web/20040804190629/http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/) |
-| 2004-10-10 07:28:59 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20041010072859/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2004-12-08 14:27:09 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20041208142709/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2005-03-09 21:24:40 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20050309212440/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2005-04-06 21:52:24 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20050406215224/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
-| 2005-12-01 01:35:17 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/ | [View Archive](https://web.archive.org/web/20051201013517/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/) |
+| 1999-08-24 20:11:27 | http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/19990824201127/http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/indexx.html) |
+| 1999-11-09 06:29:39 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/19991109062939/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html) |
+| 2000-02-26 00:13:03 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20000226001303/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html) |
+| 2000-05-23 17:59:01 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20000523175901/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html) |
+| 2000-06-15 16:21:44 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20000615162144/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html) |
+| 2000-06-17 21:16:32 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20000617211632/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html) |
+| 2000-10-17 08:42:45 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20001017084245/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html) |
+| 2001-04-22 00:55:20 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20010422005520/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html) |
+| 2002-05-12 09:11:38 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20020512091138/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html) |
+| 2002-07-14 23:13:33 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20020714231333/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html) |
+| 2003-03-13 03:22:23 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20030313032223/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html) |
+| 2003-08-30 06:57:26 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20030830065726/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html) |
+| 2003-10-23 00:03:53 | http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20031023000353/http://www.miyagi-ct.ac.jp:80/~hikaru/XROGER/indexx.html) |
+| 2004-09-08 00:18:04 | http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20040908001804/http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/indexx.html) |
+| 2005-02-16 22:54:52 | http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20050216225452/http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/indexx.html) |
+| 2007-06-29 15:51:58 | http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/indexx.html | [View Archive](https://web.archive.org/web/20070629155158/http://www.miyagi-ct.ac.jp:80/%7Ehikaru/XROGER/indexx.html) |
